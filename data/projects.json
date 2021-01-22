@@ -44,7 +44,7 @@
         "website": "https://istclone.netlify.app",
         "githubClient": "https://github.com/afzalali1999/ist-clone-client",
         "githubServer": "https://github.com/afzalali1999/ist-clone-api",
-        "src": "/colorgame.png"
+        "src": "/rit.png"
     },
     {
         "name": "Blog App",
@@ -65,7 +65,7 @@
         ],
         "website": "https://afzalsblog.herokuapp.com/blogs",
         "github": "https://github.com/afzalali1999/blog-app",
-        "src": "/rit.png"
+        "src": "/blogapp.png"
     },
     {
         "name": "YelpCamp",
