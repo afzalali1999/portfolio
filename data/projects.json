@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Color Game App",
+        "descriptions": [
+            "sdas"
+        ],
+        "tools": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "website": "https://colorgame-ali.netlify.app",
+        "github": "https://github.com/afzalali1999/color-game",
+        "src": "/colorgame.png"
+    },
+    {
+        "name": "Virtual Food App",
+        "descriptions": [
+            "This project is a food app that virually serves the user what they desire",
+            "Uses localstorage to store user info",
+            "Renders dynamic html on page through javascript"
+        ],
+        "tools": [
+            "javascript",
+            "css",
+            "dynamic html"
+        ],
+        "website": "https://virtualfoodapp.netlify.app",
+        "github": "https://github.com/afzalali1999/virtual-food-app",
+        "src": "/foodapp.png"
+    },
+    {
+        "name": "IST Clone app",
+        "descriptions": [
+            "This project renders html content dynamically using jQuery",
+            "All json data is retrieved from a nodejs express api (written by me)",
+            "Uses 5 jQuery plugins which include flip, jQuery ui, data tables, modal and google maps"
+        ],
+        "tools": [
+            "Node js",
+            "express",
+            "jQuery"
+        ],
+        "website": "https://istclone.netlify.app",
+        "githubClient": "https://github.com/afzalali1999/ist-clone-client",
+        "githubServer": "https://github.com/afzalali1999/ist-clone-api",
+        "src": "/colorgame.png"
+    },
+    {
+        "name": "Blog App",
+        "descriptions": [
+            "This project is a node-js express blog app",
+            "Allows user to create, read, update, and delete a blog post.",
+            "It implements the RESTful api pattern.",
+            "Uses MongoDB with the help of the mongoose framework to store, retreive, update, and delete a blog post.",
+            "Uses ejs template to display data"
+        ],
+        "tools": [
+            "Node js",
+            "express",
+            "MongoDB",
+            "mongoose",
+            "ejs",
+            "Semantic UI"
+        ],
+        "website": "https://afzalsblog.herokuapp.com/blogs",
+        "github": "https://github.com/afzalali1999/blog-app",
+        "src": "/rit.png"
+    },
+    {
+        "name": "YelpCamp",
+        "descriptions": [
+            "The backend of this application is written using node js and express js",
+            "Uses the nosql database MongoDB with the help of the Mongoose js framework to store campgrounds and comments.",
+            "Uses passport js to aid user authentication",
+            "Inlcudes all CRUD operations and implements the RESTful pattern",
+            "Uses ejs template for frontend display of data",
+            "Uses the Bootstrap 3 CSS for fontend display"
+        ],
+        "tools": [
+            "Node js",
+            "express",
+            "MongoDB",
+            "mongoose",
+            "ejs",
+            "Bootstrap 3"
+        ],
+        "website": "https://yelpcampapp-ali.herokuapp.com/",
+        "github": "https://github.com/afzalali1999/yelpcamp",
+        "src": "/yelpcamp.png"
+    },
+    {
+        "name": "Youtube Clone",
+        "descriptions": [
+            "This project was created using create-react-app",
+            "User types in a search term in the search bar and the application successfully makes a request to the Youtube Data API V3 to retrieve a list of videos",
+            "Dynamically renders a list of components (videos) the react way"
+        ],
+        "tools": [
+            "React js"
+        ],
+        "website": "https://youtubeclone-ali.netlify.app/",
+        "github": "https://github.com/afzalali1999/youtube-clone",
+        "src": "/youtube.png"
+    },
+    {
+        "name": "Photo Finder",
+        "descriptions": [
+            "This project was created using create-react-app",
+            "User types in a search term in a search bar and the app successfully retrieves a list of images from the Unsplash API",
+            "Renders a list of images the react way"
+        ],
+        "tools": [
+            "React js"
+        ],
+        "website": "https://photofinder-ali.netlify.app/",
+        "github": "https://github.com/afzalali1999/photofinder-app",
+        "src": "/photofinder.png"
+    },
+    {
+        "name": "Chat App",
+        "descriptions": [
+            "This project allows multiple users to join a room and chat with each other in real time",
+            "Uses node js and express for backend",
+            "Uses Socket Io to allow users chat in real time",
+            "Uses React js in frontend"
+        ],
+        "tools": [
+            "Node js",
+            "express",
+            "Socket Io",
+            "React js"
+        ],
+        "website": "https://chat-ali.netlify.app",
+        "githubClient": "https://github.com/afzalali1999/chat-app-client",
+        "githubServer": "https://github.com/afzalali1999/chat-app-server",
+        "src": "/chatapp.png"
+    },
+    {
+        "name": "Food App",
+        "descriptions": [
+            "This is a react-native app",
+            "To view project, click on 'Go to website', then 'Tap to play', then proceed to click on 'open project in Expo'",
+            "Allows a user to search for a restaurant name",
+            "App makes a request to the Yelp api and receives a list of suitable restaurants",
+            "Lists the restaurants the react way",
+            "Includes react-navigation for smooth navigation between the main screen and show screen"
+        ],
+        "tools": [
+            "React-Native",
+            "Expo"
+        ],
+        "website": "https://expo.io/appetize-simulator?url=https://expo.io/@afzalali1999/food",
+        "github": "https://github.com/afzalali1999/food-app",
+        "src": "https://images.unsplash.com/photo-1481487196290-c152efe083f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1130&q=80"
+    }
+]

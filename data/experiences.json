@@ -1,0 +1,44 @@
+[
+    {
+        "company": "Revens International",
+        "location": "NYC",
+        "title": "Junior Software Engineer",
+        "date": "May 2019 - August 2019",
+        "descriptions": [
+            "Advised CEO and CFO on strategic issues, including strategic and operational planning",
+            "Working with the development team to design, code, and implement frontend and backend of company website",
+            "Consulted and worked with team members to create a responsive web application that meets good UI/UX demands on mobile, tablet and desktop screens",
+            "Performed operations of analysis, design, development, and testing of our software",
+            "Conducted backend testing using SQL queries"
+        ]
+    },
+    {
+        "company": "Barakah Muslim Charity",
+        "location": "Rochester NY",
+        "title": "MSA Charity Aide",
+        "date": "Sept 2017 - 2020",
+        "descriptions": [
+            "Served food and distributed  essentials to the homeless and financial needy",
+            "Provided mode of transportation for charity workers to arrive at site"
+        ]
+    },
+    {
+        "company": "Elmhurst Muslim Center Inc",
+        "location": "NYC",
+        "title": "Arabic Educator",
+        "date": "2014 - 2017",
+        "descriptions": [
+            "Educated students ages 4-12 on how to read and write in arabic",
+            "Organized and aided in community hosted events"
+        ]
+    },
+    {
+        "company": "The Brooklyn Latin School",
+        "location": "NYC",
+        "title": "Computer Aide",
+        "date": "2016 - 2017",
+        "descriptions": [
+            "Assisted students with internet and troubleshooting on library computers"
+        ]
+    }
+]

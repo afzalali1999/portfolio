@@ -1,0 +1,38 @@
+
+
+.school {
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.school span {
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: #707070;
+    display: block;
+    margin-top: 0.5rem;
+}
+
+.degree {
+    font-size: 1.9rem;
+    color: #707070;
+    margin-top: 0.5rem;
+}
+
+.graduation {
+    margin-top: 0.5rem;
+    font-weight: 300;
+}
+
+.courseLabel {
+    margin-top: 2rem;
+    font-weight: 600;
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .school span {
+        float: right;
+        display: block;
+    }
+}

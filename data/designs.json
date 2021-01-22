@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Food Ecommerce Mobile App Prototype",
+        "src": "/food-design.png",
+        "description": "Created with Figma software. This is a fully designed protype app that represents a food delivery app.",
+        "linkTo": "https://www.figma.com/proto/KCrwEp1vrKhu4AYeQZoNMH/project_4?node-id=1%3A2&scaling=scale-down"
+    },
+    {
+        "title": "Marketplace Ecommerce Mobile App Prototype",
+        "src": "/market.png",
+        "description": "Created with Figma software. This is a fully designed protype app that represents an ecommerce marketplace app.",
+        "linkTo": "https://www.figma.com/proto/IEVHiqBU2IvdH5tQYnDRba/project_one?node-id=1%3A7&scaling=scale-down"
+    },
+    {
+        "title": "Dust Jacket",
+        "description": "Created and designed using Adobe Illustrator. Redesigned book cover for The Great Gatsby",
+        "src": "/dust-jacket.png",
+        "linkTo": "/dust-jacket.png"
+    },
+    {
+        "title": "Halloween Poster",
+        "description": "Created and designed using Adobe Photoshop",
+        "src": "/poster.png",
+        "linkTo": "/poster.png"
+    },
+    {
+        "title": "Tarot Card 2",
+        "description": "Created and designed using Adobe Photoshop",
+        "src": "/tarot2.png",
+        "linkTo": "/tarot2.png"
+    },
+    {
+        "title": "Tarot Card 1",
+        "description": "Created and designed using Adobe Photoshop",
+        "src": "/tarot1.png",
+        "linkTo": "/tarot1.png"
+    }
+]

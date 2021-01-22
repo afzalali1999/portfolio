@@ -1,0 +1,21 @@
+.top {
+    font-size: 1.8rem;
+}
+
+.company {
+    font-weight: 600;
+}
+
+.title {
+    font-style: italic;
+}
+
+.date {
+    font-size: 1.4rem;
+    color: #6d6d6d;
+    font-weight: 300;
+}
+
+.descriptions {
+    color: #5c5c5c;
+}

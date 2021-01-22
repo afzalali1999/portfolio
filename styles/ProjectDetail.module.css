@@ -1,0 +1,94 @@
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+.img {
+    width: 100%;
+    object-fit: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+/* .img img {
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    object-fit: cover;
+} */
+
+.body {
+    /* padding-left: 15px; */
+    /* text-align: center; */
+    padding: 15px;
+}
+
+.name {
+    font-size: 2.4rem;
+    font-weight: 600;
+}
+
+.description {
+    margin-top: 1.5rem;
+}
+
+.tools {
+    font-weight: 600;
+    margin-top: 1.5rem;
+}
+
+.tools span {
+    font-weight: bold;
+    color: #7d26ff;
+}
+
+.buttons {
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons a {
+    height: 5rem;
+    margin-top: 1.5rem;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.websiteButton {
+    background-color: #67ff95;
+    border: 3px solid #4aa500;
+}
+
+.githubButton {
+    background-color: aliceblue;
+    border: 3px solid #b3c4d3;
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .cardContainer {
+        flex-direction: row;
+        width: 800px;
+        /* border-top-left-radius: 15px;
+        border-bottom-left-radius: 15px; */
+        /* border-radius: 15px; */
+    }
+
+    .img {
+        width: 50%;
+        border-top-left-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-top-right-radius: 0;
+    }
+
+    .body {
+        width: 50%;
+        padding-top: 5px;
+    }
+}
