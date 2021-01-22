@@ -24,7 +24,7 @@ const Navbar = () => {
                                 smooth={true}
                                 duration={500}
                             >
-                                Home
+                                About
                             </Link>
                         </li>
                         <li>
@@ -79,10 +79,56 @@ const Navbar = () => {
 
                 <div className={styles.sidenav} style={sideNav}>
                     <a className={styles.closebtn} onClick={closeNav}>&times;</a>
-                    <a href="#">About</a>
-                    <a href="#">Services</a>
-                    <a href="#">Clients</a>
-                    <a href="#">Contact</a>
+                    <Link 
+                        to="aboutMe"
+                        spy={true}
+                        smooth={true}
+                        offset={10}
+                        duration={400}
+                        onClick={closeNav}
+                    >
+                        About
+                    </Link>
+                    <Link 
+                        to="education"
+                        spy={true}
+                        smooth={true}
+                        offset={10}
+                        duration={400}
+                        onClick={closeNav}
+                    >
+                        Education
+                    </Link>
+                    <Link 
+                        to="experience"
+                        spy={true}
+                        smooth={true}
+                        offset={10}
+                        duration={400}
+                        onClick={closeNav}
+                    >
+                        Experience
+                    </Link>
+                    <Link 
+                        to="projects"
+                        spy={true}
+                        smooth={true}
+                        offset={10}
+                        duration={400}
+                        onClick={closeNav}
+                    >
+                        Projects
+                    </Link>
+                    <Link 
+                        to="designProjects"
+                        spy={true}
+                        smooth={true}
+                        offset={10}
+                        duration={400}
+                        onClick={closeNav}
+                    >
+                        Design
+                    </Link>
                 </div>
             </div>
         </nav>

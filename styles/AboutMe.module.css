@@ -12,6 +12,15 @@
     margin: 0 auto;
 }
 
+.disclaimer {
+    font-weight: 700
+}
+
+.githubLink {
+    color: #2f2fff;
+    text-decoration: underline;
+}
+
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     .gridContainer {
