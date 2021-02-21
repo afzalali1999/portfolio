@@ -1,15 +1,12 @@
 [
     {
-        "company": "Revens International",
-        "location": "NYC",
-        "title": "Junior Software Engineer",
-        "date": "May 2019 - August 2019",
+        "company": "RIT Muslim Students Association",
+        "location": "Rochester NY",
+        "title": "RIT Muslim Students Association",
+        "date": "Sept 2018 - 2020",
         "descriptions": [
-            "Advised CEO and CFO on strategic issues, including strategic and operational planning",
-            "Working with the development team to design, code, and implement frontend and backend of company website",
-            "Consulted and worked with team members to create a responsive web application that meets good UI/UX demands on mobile, tablet and desktop screens",
-            "Performed operations of analysis, design, development, and testing of our software",
-            "Conducted backend testing using SQL queries"
+            "Sponsored, organized, and aided large community events in the greater Rochester area",
+            "Acted as voice of the board and handled all funds and expenses"
         ]
     },
     {
@@ -30,15 +27,6 @@
         "descriptions": [
             "Educated students ages 4-12 on how to read and write in arabic",
             "Organized and aided in community hosted events"
-        ]
-    },
-    {
-        "company": "The Brooklyn Latin School",
-        "location": "NYC",
-        "title": "Computer Aide",
-        "date": "2016 - 2017",
-        "descriptions": [
-            "Assisted students with internet and troubleshooting on library computers"
         ]
     }
 ]
