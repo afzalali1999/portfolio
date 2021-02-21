@@ -26,5 +26,6 @@
     .gridContainer {
         grid-template-columns: 1fr 2fr;
         max-width: 100rem;
+        margin: 0 auto;
     }
 }
