@@ -4,7 +4,7 @@ const Project = () => {
     return (
         <section id="projects">
             <div className="flexContainer">
-                <h1 className="title">Software Projects</h1>
+                <h1 className="title">Web Projects</h1>
             </div>
 
             <ProjectList />

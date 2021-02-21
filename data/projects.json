@@ -1,50 +1,31 @@
 [
     {
-        "name": "Color Game App",
+        "name": "Youtube Clone",
         "descriptions": [
-            "sdas"
+            "This project was created using create-react-app",
+            "User types in a search term in the search bar and the application successfully makes a request to the Youtube Data API V3 to retrieve a list of videos",
+            "Dynamically renders a list of components (videos) the react way"
         ],
         "tools": [
-            "html",
-            "css",
-            "javascript"
+            "React js"
         ],
-        "website": "https://colorgame-ali.netlify.app",
-        "github": "https://github.com/afzalali1999/color-game",
-        "src": "/colorgame.png"
+        "website": "https://youtubeclone-ali.netlify.app/",
+        "github": "https://github.com/afzalali1999/youtube-clone",
+        "src": "/youtube.png"
     },
     {
-        "name": "Virtual Food App",
+        "name": "Photo Finder",
         "descriptions": [
-            "This project is a food app that virually serves the user what they desire",
-            "Uses localstorage to store user info",
-            "Renders dynamic html on page through javascript"
+            "This project was created using create-react-app",
+            "User types in a search term in a search bar and the app successfully retrieves a list of images from the Unsplash API",
+            "Renders a list of images the react way"
         ],
         "tools": [
-            "javascript",
-            "css",
-            "dynamic html"
+            "React js"
         ],
-        "website": "https://virtualfoodapp.netlify.app",
-        "github": "https://github.com/afzalali1999/virtual-food-app",
-        "src": "/foodapp.png"
-    },
-    {
-        "name": "IST Clone app",
-        "descriptions": [
-            "This project renders html content dynamically using jQuery",
-            "All json data is retrieved from a nodejs express api (written by me)",
-            "Uses 5 jQuery plugins which include flip, jQuery ui, data tables, modal and google maps"
-        ],
-        "tools": [
-            "Node js",
-            "express",
-            "jQuery"
-        ],
-        "website": "https://istclone.netlify.app",
-        "githubClient": "https://github.com/afzalali1999/ist-clone-client",
-        "githubServer": "https://github.com/afzalali1999/ist-clone-api",
-        "src": "/rit.png"
+        "website": "https://photofinder-ali.netlify.app/",
+        "github": "https://github.com/afzalali1999/photofinder-app",
+        "src": "/photofinder.png"
     },
     {
         "name": "Blog App",
@@ -90,34 +71,6 @@
         "src": "/yelpcamp.png"
     },
     {
-        "name": "Youtube Clone",
-        "descriptions": [
-            "This project was created using create-react-app",
-            "User types in a search term in the search bar and the application successfully makes a request to the Youtube Data API V3 to retrieve a list of videos",
-            "Dynamically renders a list of components (videos) the react way"
-        ],
-        "tools": [
-            "React js"
-        ],
-        "website": "https://youtubeclone-ali.netlify.app/",
-        "github": "https://github.com/afzalali1999/youtube-clone",
-        "src": "/youtube.png"
-    },
-    {
-        "name": "Photo Finder",
-        "descriptions": [
-            "This project was created using create-react-app",
-            "User types in a search term in a search bar and the app successfully retrieves a list of images from the Unsplash API",
-            "Renders a list of images the react way"
-        ],
-        "tools": [
-            "React js"
-        ],
-        "website": "https://photofinder-ali.netlify.app/",
-        "github": "https://github.com/afzalali1999/photofinder-app",
-        "src": "/photofinder.png"
-    },
-    {
         "name": "Chat App",
         "descriptions": [
             "This project allows multiple users to join a room and chat with each other in real time",
@@ -135,6 +88,53 @@
         "githubClient": "https://github.com/afzalali1999/chat-app-client",
         "githubServer": "https://github.com/afzalali1999/chat-app-server",
         "src": "/chatapp.png"
+    },
+    {
+        "name": "Color Game App",
+        "descriptions": [
+            "sdas"
+        ],
+        "tools": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "website": "https://colorgame-ali.netlify.app",
+        "github": "https://github.com/afzalali1999/color-game",
+        "src": "/colorgame.png"
+    },
+    {
+        "name": "Virtual Food App",
+        "descriptions": [
+            "This project is a food app that virually serves the user what they desire",
+            "Uses localstorage to store user info",
+            "Renders dynamic html on page through javascript"
+        ],
+        "tools": [
+            "javascript",
+            "css",
+            "dynamic html"
+        ],
+        "website": "https://virtualfoodapp.netlify.app",
+        "github": "https://github.com/afzalali1999/virtual-food-app",
+        "src": "/foodapp.png"
+    },
+    {
+        "name": "IST Clone app",
+        "descriptions": [
+            "This project renders html content dynamically using jQuery",
+            "All json data is retrieved from a nodejs express api (written by me)",
+            "Uses 5 jQuery plugins which include flip, jQuery ui, data tables, modal and google maps"
+        ],
+        "tools": [
+            "Node js",
+            "express",
+            "jQuery"
+        ],
+        "website": "https://istclone.netlify.app",
+        "githubClient": "https://github.com/afzalali1999/ist-clone-client",
+        "githubServer": "https://github.com/afzalali1999/ist-clone-api",
+        "src": "/rit.png"
     },
     {
         "name": "Food App",
